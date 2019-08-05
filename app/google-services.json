@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627451813481",
+    "firebase_url": "https://empalink-7e20d.firebaseio.com",
+    "project_id": "empalink-7e20d",
+    "storage_bucket": "empalink-7e20d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627451813481:android:df2dbc4cbfe721f0",
+        "android_client_info": {
+          "package_name": "com.empatica.empalinksample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627451813481-429hhaesehhvo1ha0t5r19h8l1bvq3vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcFOiAiuQAmPqpSTieMoejKnLoW7CyzvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627451813481-429hhaesehhvo1ha0t5r19h8l1bvq3vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
